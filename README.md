@@ -10,7 +10,7 @@
     
 2. #### Install Project Dependencies
     >> cd Drag-N-Drop-Mini-Page-Builder-ReactJS  
-    >> npm install OR npm i
+    >> npm install
     
 3. #### Run the project using this command inside the project folder
    >> npm start
