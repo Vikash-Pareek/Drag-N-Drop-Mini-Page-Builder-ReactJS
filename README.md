@@ -9,10 +9,10 @@
     git clone https://github.com/Vikash-Pareek/Farmerly-MERN_Stack.git
     
 2. #### Install Project Dependencies
-    >> cd Drag-N-Drop-Mini-Page-Builder-ReactJS
-    >> npm install
+    >> cd Drag-N-Drop-Mini-Page-Builder-ReactJS  
+    >> npm install OR npm i
     
-3. #### Run the project using this command
+3. #### Run the project using this command inside the project folder
    >> npm start
    
 
