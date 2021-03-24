@@ -1,7 +1,7 @@
 # Drag and Drop Mini Page Builder
 
 
--> developed using -> React JS
+>> developed using -> React JS
 
 
 ## Installation Process
@@ -17,7 +17,7 @@
    
 
 ### Website Description:
-    1. <strong>Drag</strong> and <strong>Drop</strong> elements such as Label, TextField and Button fields.
+    1. Drag and Drop elements such as Label, TextField and Button fields.
     2. Alter dropped element by filling out the form fields for the element name, elements X and Y coordinates, font size and font weight.
     3. Clicking the element and pressing "ENTER" key, opens the element form modal box.
     4. Last altered element data is saved on the browser Local Storage automatically.
