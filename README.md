@@ -6,7 +6,7 @@
 
 ## Installation Process
 1. #### Clone the repo using this command
-    git clone https://github.com/Vikash-Pareek/Farmerly-MERN_Stack.git
+    git clone https://github.com/Vikash-Pareek/Drag-N-Drop-Mini-Page-Builder-ReactJS.git
     
 2. #### Install Project Dependencies
     >> cd Drag-N-Drop-Mini-Page-Builder-ReactJS  
